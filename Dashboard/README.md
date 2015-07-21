@@ -1,4 +1,4 @@
-# About this Dashboar
+# About this Dashboard
 
 This folder contains two files:
   - ui.R
